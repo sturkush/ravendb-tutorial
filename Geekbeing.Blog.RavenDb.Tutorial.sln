@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geekbeing.Blog.RavenDb.Tutorial.Querying", "Geekbeing.Blog.RavenDb.Tutorial.Querying\Geekbeing.Blog.RavenDb.Tutorial.Querying.csproj", "{488A6826-82BD-48B3-8832-A743641B4B63}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geekbeing.Blog.RavenDb.Tutorial.Initializer", "Geekbeing.Blog.RavenDb.Tutorial.Initializer\Geekbeing.Blog.RavenDb.Tutorial.Initializer.csproj", "{8832963E-5E66-4F39-8894-229ADD1B1550}"
